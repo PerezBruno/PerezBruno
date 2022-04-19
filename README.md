@@ -1,7 +1,7 @@
 <h1 align="center">Hi, i´m Bruno Pérez.</h1>
 <h3 align="center">Data Analytics.</h3>
 
-- 🌱 I’m currently learning **web development and data science.**
+- 🌱 I’m currently learning **web development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
