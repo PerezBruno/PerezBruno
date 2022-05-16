@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 👋, to soy Bruno L. Pérez</h1>
+<h1 align="center">Hola! 👋, soy Bruno L. Pérez</h1>
 - 🔭 I’m currently working on [web development.](web development.)
 
 - 🌱 I’m currently learning **web development.**
